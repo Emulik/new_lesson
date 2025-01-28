@@ -1,1 +1,1 @@
-console.log("<h1>This is first line</h1>");
+document.write("<h1>This is first line</h1>");
